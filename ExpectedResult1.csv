@@ -1,0 +1,11 @@
+id,name,description,race,class_role
+1,Batman,just a human,human,dps
+2,Flash,very fast,human,dps
+3,Captain America,very strong,human,tankman
+4,Green Lantern,super ring,human,healer
+5,Captain Marvel,very strong,human,healer
+6,Hulk,very strong,human,tankman
+7,Black Panther,casual man,human,dps
+8,Arrow,well-aimed,human,healer
+9,Superman,immortal,non-human,tankman
+

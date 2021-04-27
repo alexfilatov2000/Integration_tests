@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "csvtojson": "^2.0.10",
+    "jest": "^26.6.3",
+    "pg": "^8.6.0"
+  },
+  "devDependencies": {
+    "csv-parse": "^4.15.4"
+  }
+}
